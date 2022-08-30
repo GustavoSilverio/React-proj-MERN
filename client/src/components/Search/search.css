@@ -1,0 +1,10 @@
+.add-word {
+    height: 3.5rem;
+    width: auto;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background-color: #555;
+    color: #eee;
+    font-size: 16px;
+}

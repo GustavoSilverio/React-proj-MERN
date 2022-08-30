@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tables {
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  display: flex;
+}
+
+body {
+  background-color: #1c0545e8;
+}
+
+.header {
+  text-align: center;
+}
+
+/* input,
+button {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin: 5px;
+} */
+
+.food {
+  width: 500px;
+  height: 250px;
+  border: 2px solid #000;
+  margin: 10px;
+}
